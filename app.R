@@ -200,7 +200,7 @@ ui <- fluidPage(
                  h3("Citation"),
                  p("If you use this application in your research, please cite:"),
                  tags$blockquote(
-                   "Wiradika, I. (2025). GDINA Analysis GUI: A tool for cognitive diagnostic assessment. AssevLabs."
+                   "Wiradika, I.N.I. (2025). GDINA Analysis GUI: A tool for cognitive diagnostic assessment. AssevLabs."
                  ),
                  
                  h3("Acknowledgments"),
